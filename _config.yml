@@ -13,20 +13,19 @@ app_price: 订阅制
 app_subtitle: 与 PapaKoala 一起踏上 0-1 岁宝宝的大脑和亲子之旅。
 app_description: "宝宝的早期年龄是开发大脑的绝佳机会。这是点燃他们智力潜能并为终身学习奠定基础的最佳时机。\nPapaKoala 是您的个人早期刺激指南，可帮助您培养宝宝的认知发展并建立与他们深厚的情感联系。"
 
-# Feature List       编辑、添加或删除要呈现的功能。
+# Feature List 编辑、添加或删除要呈现的功能。
 features:
   - title: "解锁早期刺激的力量"
-  description: 将您的宝宝浸入刺激性体验的世界中，促进他们的大脑发育并唤醒他们的感官。PapaKoala 精心策划的活动，受专家发展研究指导，将您的小宝贝介绍给视觉、声音和触摸的交响乐，刺激他们的神经通路并为未来的成功奠定基础。
-  fontawesome_icon_name: baby
+    description: 将您的宝宝浸入刺激性体验的世界中，促进他们的大脑发育并唤醒他们的感官。PapaKoala 精心策划的活动，受专家发展研究指导，将您的小宝贝介绍给视觉、声音和触摸的交响乐，刺激他们的神经通路并为未来的成功奠定基础。
+    fontawesome_icon_name: baby
 
   - title: "体验互动式学习的乐趣"
-  description: 告别单调的练习，拥抱 PapaKoala 互动活动的趣味性和吸引力。我们的视频教程提供清晰的指导，并使学习成为父母和宝宝都能愉快体验。
-  fontawesome_icon_name: brain
+    description: 告别单调的练习，拥抱 PapaKoala 互动活动的趣味性和吸引力。我们的视频教程提供清晰的指导，并使学习成为父母和宝宝都能愉快体验。
+    fontawesome_icon_name: brain
 
   - title: "培养爱和信任的纽带"
-  description: 早期刺激不仅限于认知发展；它还涉及在您和宝宝之间建立一个安全和充满爱的纽带。PapaKoala 的活动强调触摸，这是婴儿互动的最基本形式，可以培养信任、安全感和深厚的情感联系。
-  fontawesome_icon_name: heart
-
+    description: 早期刺激不仅限于认知发展；它还涉及在您和宝宝之间建立一个安全和充满爱的纽带。PapaKoala 的活动强调触摸，这是婴儿互动的最基本形式，可以培养信任、安全感和深厚的情感联系。
+    fontawesome_icon_name: heart
 
 
 ############## end of translations block #####
